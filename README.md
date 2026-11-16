@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Tab State Highlighter is now part of [Homuzen](https://github.com/homura-ai/homuzen), and this repository is no longer updated. To switch, install `https://github.com/homura-ai/homuzen` in Sine, remove this mod, and turn on **Enable Tab State Highlighter** in Homuzen's settings. Your settings carry over.
+
 # Tab State Highlighter
 
 A configurable Sine CSS mod for Zen Browser that gives loaded and unloaded tabs distinct visual effects.
